@@ -15,7 +15,12 @@
 + noto-fonts-extra
 + gnu-free-fonts
 + telegram-desktop
-+ sakura
++ alacritty
++ zsh
++ oh-my-zsh
++ git
++ wget
++ curl
 + pcmanfm-qt
 + cmus
 + flatpak
