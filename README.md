@@ -9,6 +9,7 @@
 + feh
 + ranger
 + firefox
++ libreoffice
 + noto-fonts
 + noto-fonts-cjk
 + noto-fonts-emoji
@@ -30,4 +31,4 @@
 Distributed under the MIT License
 
 ## Contact us
-If you are learning or actively earning on [bash](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/) and [i3](https://i3wm.org/docs/userguide.html) then write us an [telegram](https://t.me/bahirev_aristarh)
+If you are learning or actively earning on [bash](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [i3](https://i3wm.org/docs/userguide.html), [yml]() then write us an [telegram](https://t.me/bahirev_aristarh)
