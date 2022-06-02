@@ -14,6 +14,7 @@
 + noto-fonts-emoji
 + noto-fonts-extra
 + gnu-free-fonts
++ fira-code-fonts
 + telegram-desktop
 + alacritty
 + zsh
