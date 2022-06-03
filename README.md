@@ -1,5 +1,5 @@
 # Ascetic. Minimalist desktop environment based on i3-gaps 
-> Design created and developed by Bahirev Aristarh on Arch Linux and Fedora
+> Design created and developed by Bahirev Aristarh on Fedora 36
 
 ## Software programs list
 + i3-gaps
