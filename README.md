@@ -17,7 +17,6 @@
 + gnu-free-fonts
 + liberation-fonts
 + fira-code-fonts
-+ telegram-desktop
 + alacritty
 + zsh
 + oh-my-zsh
@@ -25,6 +24,8 @@
 + wget
 + curl
 + pcmanfm-qt
++ calcure
++ mpv
 + cmus
 + flatpak
 
