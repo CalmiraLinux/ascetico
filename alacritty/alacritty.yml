@@ -61,6 +61,6 @@ env:
 #  opacity: 0.80
 
 key_bindings:
-  - { key: C, mods: Control, action: Copy }
-  - { key: V, mods: Control, action: Paste }
+#  - { key: C, mods: Control, action: Copy }
+#  - { key: V, mods: Control, action: Paste }
   - { key: Return,   mods: Control|Shift, action: SpawnNewInstance }
