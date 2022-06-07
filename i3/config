@@ -4,7 +4,7 @@
 
 set $mod Mod4
 
-font pango: Noto Sans 9
+font pango: Noto Sans 8
 
 # Autostart 
 exec --no-startup-id dex --autostart --environment i3
@@ -28,7 +28,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # Start a terminal
-bindsym $mod+Return exec konsole
+bindsym $mod+Return exec alacritty
 
 # Kill focused window
 bindsym $mod+Shift+q kill
@@ -84,11 +84,11 @@ bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # Focus the child container
-#bindsym $mod+d focus child
+# bindsym $mod+d focus child
 
 # Window frame style
-# default_border pixel 1
-# default_floating_border pixel 1
+default_border pixel 1
+default_floating_border pixel 1
 
 # class                	  border  backgr. text    indicator child_border
 client.focused            #0fbed8 #0fbed8 #111d1f #0fbed8   #0fbed8
@@ -98,7 +98,7 @@ client.focused_inactive   #5f676a #5f676a #111d1f #484e50   #5f676a
 # client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 # Rules for applications of some
-for_window [class="konsole"] floating enable
+for_window [class="alacitty"] floating enable
 for_window [class="kcalc"] floating enable
 for_window [class="dolphin"] floating enable
 for_window [class="vlc"] floating enable
@@ -107,7 +107,7 @@ for_window [class="transmission-qt"] floating enable
 for_window [class="nitrogen"] floating enable
 
 # Attaching programs to workspaces
-assign [class="konsole"] $ws1
+assign [class="alacritty"] $ws1
 assign [class="firefox"] $ws2
 assign [class="code"] $ws3
 assign [class="dolphin"] $ws4
