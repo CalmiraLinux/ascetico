@@ -1,4 +1,4 @@
-# Ascetic. Minimalist desktop environment based on sway
+# Ascetic. Minimalist desktop environment based on Wayland with sway 
 > Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux(-libre)
 
 ### The basis for the working environment
@@ -31,7 +31,7 @@
 ### Software for the user
 1. micro - [text editor](https://github.com/zyedidia/micro)
 2. ranger - [file mananger](https://github.com/ranger/ranger)
-3. konqueror - [web browser](https://github.com/KDE/konqueror)
+3. falcon - [web browser](https://github.com/KDE/falkon)
 4. alacritty - [terminal](https://github.com/alacritty/alacritty)
 5. slurp - [selection of an arbitrary area of the screen](https://github.com/emersion/slurp)
 6. grim - [screenshot tool](https://github.com/alacritty/alacritty)
