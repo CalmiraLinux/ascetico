@@ -6,6 +6,7 @@
 + [i3status](https://github.com/i3/i3status)
 + [polybar](https://github.com/polybar/polybar)
 + [sddm](https://github.com/sddm/sddm)
++ [sclock](https://github.com/khuedoan/slock)
 
 + [feh](https://github.com/derf/feh)
 + [git](https://github.com/git/git)
