@@ -45,4 +45,4 @@
 Distributed under the MIT License
 
 ## Contact us
-If you are learning or actively earning on [shell scripting](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [css](https://www.w3schools.com/css/default.asp) and [sway](https://swaywm.org/) then write us an [telegram](https://t.me/bahirev_aristarh)
+If you are learning or actively earning on [shell scripting](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [css](https://www.w3schools.com/css/default.asp) then write us an [telegram](https://t.me/bahirev_aristarh)
