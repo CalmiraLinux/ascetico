@@ -2,13 +2,13 @@
 > Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux
 
 ## Software programs list
-+ [i3-gaps](https://github.com/Airblader/i3)
-+ [i3status](https://github.com/i3/i3status)
-+ [polybar](https://github.com/polybar/polybar)
-+ [sddm](https://github.com/sddm/sddm)
-+ [sclock](https://github.com/khuedoan/slock)
++ sway - [windows manager](https://github.com/swaywm/sway)
++ waybar - [panel](https://github.com/polybar/polybar)
++ sddm - [display manager](https://github.com/sddm/sddm)
++ swaylock - [screen locker](https://github.com/swaywm/swaylock)
++ swayidle - [idle manager](https://github.com/swaywm/swayidle)
 
-+ [feh](https://github.com/derf/feh)
++ swaybg - [wallpapers control](https://github.com/swaywm/swaybg)
 + [git](https://github.com/git/git)
 + [curl](https://github.com/curl/curl)
 + [pip](https://github.com/pypa/pip)
@@ -24,10 +24,10 @@
 + [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 + [micro](https://github.com/zyedidia/micro)
-+ [pcmanfm-qt](https://github.com/lxqt/pcmanfm-qt)
 + [ranger](https://github.com/ranger/ranger)
 + [konqueror](https://github.com/KDE/konqueror)
 + [alacritty](https://github.com/alacritty/alacritty)
++ [grim](https://github.com/alacritty/alacritty)
 + [pavucontrol](https://github.com/pulseaudio/pavucontrol)
 + [calcure](https://github.com/anufrievroman/calcure)
 + [zathura](https://github.com/pwmt/zathura)
