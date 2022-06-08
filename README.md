@@ -1,5 +1,5 @@
-# Ascetic. Minimalist desktop environment based on i3-gaps 
-> Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux
+# Ascetic. Minimalist desktop environment based on sway
+> Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux(-libre)
 
 ## Software programs list
 sway - [windows manager](https://github.com/swaywm/sway)
