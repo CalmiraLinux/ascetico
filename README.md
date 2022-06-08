@@ -2,11 +2,11 @@
 > Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux
 
 ## Software programs list
-+ sway - [windows manager](https://github.com/swaywm/sway)
-+ waybar - [panel](https://github.com/polybar/polybar)
-+ sddm - [display manager](https://github.com/sddm/sddm)
-+ swaylock - [screen locker](https://github.com/swaywm/swaylock)
-+ swayidle - [idle manager](https://github.com/swaywm/swayidle)
+sway - [windows manager](https://github.com/swaywm/sway)
+waybar - [panel](https://github.com/polybar/polybar)
+sddm - [display manager](https://github.com/sddm/sddm)
+swaylock - [screen locker](https://github.com/swaywm/swaylock)
+swayidle - [idle manager](https://github.com/swaywm/swayidle)
 
 + swaybg - [wallpapers control](https://github.com/swaywm/swaybg)
 + [git](https://github.com/git/git)
