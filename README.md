@@ -1,12 +1,12 @@
 # Ascetic. Minimalist desktop environment based on sway
 > Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux(-libre)
 
-## Software programs list
-sway - [windows manager](https://github.com/swaywm/sway)
-waybar - [panel](https://github.com/polybar/polybar)
-sddm - [display manager](https://github.com/sddm/sddm)
-swaylock - [screen locker](https://github.com/swaywm/swaylock)
-swayidle - [idle manager](https://github.com/swaywm/swayidle)
+### Software programs list
+1. sway - [windows manager](https://github.com/swaywm/sway)
+2. waybar - [panel](https://github.com/Alexays/Waybar)
+3. sddm - [display manager](https://github.com/sddm/sddm)
+4. swaylock - [screen locker](https://github.com/swaywm/swaylock)
+5. swayidle - [idle manager](https://github.com/swaywm/swayidle)
 
 + swaybg - [wallpapers control](https://github.com/swaywm/swaybg)
 + [git](https://github.com/git/git)
@@ -15,13 +15,13 @@ swayidle - [idle manager](https://github.com/swaywm/swayidle)
 + [pipewire](https://github.com/PipeWire/pipewire)
 + [zsh](https://www.zsh.org/)
 
-+ [liberation-fonts](https://github.com/liberationfonts/liberation-fonts)
-+ [fira-code-font](https://github.com/tonsky/FiraCode)
-+ [noto-fonts](https://github.com/googlefonts/noto-fonts)
-+ [noto-fonts-cjk](https://github.com/googlefonts/noto-cjk)
-+ [noto-fonts-emoji](https://github.com/googlefonts/noto-emoji)
-+ [gnu-free-fonts](https://github.com/Maxattax97/gnu-freefont)
-+ [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+### Fonts for system and terminal
+1. [liberation-fonts](https://github.com/liberationfonts/liberation-fonts)
+2. [fira-code-font](https://github.com/tonsky/FiraCode)
+3. [noto-fonts](https://github.com/googlefonts/noto-fonts)
+4. [noto-fonts-cjk](https://github.com/googlefonts/noto-cjk)
+5. [noto-fonts-emoji](https://github.com/googlefonts/noto-emoji)
+6. oh-my-zsh - [theme for zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 + [micro](https://github.com/zyedidia/micro)
 + [ranger](https://github.com/ranger/ranger)
@@ -38,4 +38,4 @@ swayidle - [idle manager](https://github.com/swaywm/swayidle)
 Distributed under the MIT License
 
 ## Contact us
-If you are learning or actively earning on [bash](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [i3](https://i3wm.org/docs/userguide.html), [yml](https://www.educative.io/blog/yaml-tutorial) then write us an [telegram](https://t.me/bahirev_aristarh)
+If you are learning or actively earning on [bash](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/), [swAay](https://swaywm.org/), [yml](https://www.educative.io/blog/yaml-tutorial) then write us an [telegram](https://t.me/bahirev_aristarh)
