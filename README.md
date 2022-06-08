@@ -22,7 +22,7 @@
 
 ### Fonts and themes for system and terminal
 1. noto-fonts - [default system font](https://github.com/googlefonts/noto-fonts)
-2. noto-fonts-cjk [relabeled versions of Adobe fonts](https://github.com/googlefonts/noto-cjk)
+2. noto-fonts-cjk - [relabeled versions of Adobe fonts](https://github.com/googlefonts/noto-cjk)
 3. noto-fonts-emoji - [font that supports the Unicode emoji specification](https://github.com/googlefonts/noto-emoji)
 4. liberation-fonts - [open source analogue of commercial fonts Arial, Times New Roman and Courier New](https://github.com/liberationfonts/liberation-fonts)
 5. fira-code - [default terminal font](https://github.com/tonsky/FiraCode)
