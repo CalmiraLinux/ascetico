@@ -1,5 +1,5 @@
 # Ascetic. Minimalist desktop environment based on Wayland with sway 
-> Design created and developed by Bahirev Aristarh on Fedora 36 and Calmira GNU/Linux(-libre)
+> Design created and developed by Bahirev Aristarh on Arch Linux, Fedora 36 and Calmira GNU/Linux(-libre)
 
 ### The basis for the working environment
 1. wayland - [window system and its protocol, X.org replacement](https://gitlab.freedesktop.org/wayland/wayland)
