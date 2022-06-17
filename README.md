@@ -1,5 +1,5 @@
 # Ascetic. Minimalist desktop environment based on Wayland with sway 
-> Design created and developed by Bahirev Aristarh on Arch Linux, Fedora 36 and Calmira GNU/Linux(-libre)
+> Design created and developed by Aristarh Bahirev on Fedora 36 and Calmira GNU/Linux(-libre)
 
 ### The basis for the working environment
 1. wayland - [window system and its protocol, X.org replacement](https://gitlab.freedesktop.org/wayland/wayland)
@@ -38,8 +38,8 @@
 7. pavucontrol - [volume control utility](https://github.com/pulseaudio/pavucontrol)
 8. calcure - [calendar](https://github.com/anufrievroman/calcure)
 9. zathura - [document viewer](https://github.com/pwmt/zathura)
-10. mpv - [video player](https://github.com/mpv-player/mpv)
-11. cmus - [music player](https://github.com/cmus/cmus)
+10. cmus - [music player](https://github.com/cmus/cmus)
+11. mpv - [video player](https://github.com/mpv-player/mpv)
 
 ## License
 Distributed under the MIT License
