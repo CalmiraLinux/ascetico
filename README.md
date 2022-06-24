@@ -1,4 +1,4 @@
-# Ascetic. Minimalist desktop environment based on Wayland with sway 
+# Ascetico. Minimalist desktop environment based on Wayland with sway 
 > Design created and developed by Aristarh Bahirev on Fedora 36 and Calmira GNU/Linux(-libre)
 
 ### The basis for the working environment
